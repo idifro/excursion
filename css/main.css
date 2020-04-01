@@ -1,3 +1,38 @@
-h1 {
-    float: right;
+html {
+    font-family: verdana;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+header h1 {
+    font-weight: 400;
+    font-size: 50px;
+}
+
+main a {
+    align-self: center;
+    color: aquamarine;
+    font-size: 16px;
+}
+
+#personal-heading {
+    font-weight: 300;
+    font-size: 42;
+}
+
+#personal-content {
+    font-size: 21px;
+    color: gray;
+}
+
+#phone-img {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+footer {
+    color: gray;
+    text-align: right;
+    
 }
